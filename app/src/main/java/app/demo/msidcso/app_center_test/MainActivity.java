@@ -1,4 +1,4 @@
-package app.demo.msidcso.app_center_test;
+package gopip.microsoft.com.app_center_test;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
