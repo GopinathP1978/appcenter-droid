@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':Microsoft.Intune.MAM.SDK', ':Microsoft.Intune.MAM.SDK.Support.v4', ':Microsoft.Intune.MAM.SDK.Support.v7'

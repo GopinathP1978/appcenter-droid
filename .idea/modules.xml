@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Microsoft.Intune.MAM.SDK/Microsoft.Intune.MAM.SDK.iml" filepath="$PROJECT_DIR$/Microsoft.Intune.MAM.SDK/Microsoft.Intune.MAM.SDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microsoft.Intune.MAM.SDK.Support.v4/Microsoft.Intune.MAM.SDK.Support.v4.iml" filepath="$PROJECT_DIR$/Microsoft.Intune.MAM.SDK.Support.v4/Microsoft.Intune.MAM.SDK.Support.v4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microsoft.Intune.MAM.SDK.Support.v7/Microsoft.Intune.MAM.SDK.Support.v7.iml" filepath="$PROJECT_DIR$/Microsoft.Intune.MAM.SDK.Support.v7/Microsoft.Intune.MAM.SDK.Support.v7.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/appcenter-droid.iml" filepath="$PROJECT_DIR$/appcenter-droid.iml" />
     </modules>

@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Microsoft.Intune.MAM.SDK" />
+            <option value="$PROJECT_DIR$/Microsoft.Intune.MAM.SDK.Support.v4" />
+            <option value="$PROJECT_DIR$/Microsoft.Intune.MAM.SDK.Support.v7" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
